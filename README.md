@@ -1,4 +1,4 @@
-# nlw-experts
+# NLW Experts
 
 *** Semana NLW Experts - Rocketseat ***
 
